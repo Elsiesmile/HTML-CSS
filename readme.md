@@ -1,3 +1,10 @@
-# Git and Github my project 1
+# HTML + CSS
 
-Crash course for Git
+Попробуйте здесь: file:///C:/Users/petru/OneDrive/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/my%20project%201/index.html
+
+Данный проект - это моя первая простая вёрстка страниц с использованием HTML+CSS. Страница содержит:
+
+1. Верхнее меню
+2. Форма загрузки файлов и поиска
+3. Фото раскладки
+4. Нижний колонтитул
